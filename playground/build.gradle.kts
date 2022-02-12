@@ -81,7 +81,7 @@ BuglySymbol {
     /**
      *
      */
-    jdk8Path = "/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/bin/java"
+    jdk8Path = "/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java"
     /**
      *
      */
