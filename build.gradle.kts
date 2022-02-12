@@ -7,7 +7,7 @@ buildscript {
     dependencies {
         classpath("com.android.tools.build:gradle:4.1.3")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.31")
-//        classpath("com.github.HelloVass:BuglySymbolPlugin:1.0.3")
+        classpath("com.github.HelloVass:BuglySymbolPlugin:1.0.5")
     }
 }
 
